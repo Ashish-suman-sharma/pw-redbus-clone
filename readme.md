@@ -2,7 +2,7 @@
 
 # pw project - yt clone
 
-### [Live Website here](https://ashishsuman.me/pw-yt-clone/)
+### [Live Website here](https://ashishsuman.me/pw-redbus-clone/)
 
 ## Features
 
